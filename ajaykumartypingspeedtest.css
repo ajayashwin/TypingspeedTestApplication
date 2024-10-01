@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.main-container {
+
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 100%;
+    padding-bottom: 60px;
+}
+
+.heading {
+    color: #690cb0;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.caption-para {
+    color: #3e4c59;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+
+.clock-image {
+    width: 50px;
+    height: 50px;
+}
+
+.secs-num {
+    color: #323f4b;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Roboto";
+
+}
+
+.secs-para {
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
+
+.card-container {
+    background-color: #f2ebfe;
+    width: 60vw;
+    padding: 25px;
+    border-radius: 15px;
+    border-color: #9aa5b1;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.quote-para {
+    color: #3e4c59;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.input-area {
+    width: 300px;
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #ffffff;
+    width: 79px;
+    height: 38px;
+    border-radius: 6px;
+    border-color: #690cb0;
+    border-style: none;
+    font-weight: bold;
+}
+
+.reset-btn {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #323f4b;
+    width: 79px;
+    height: 38px;
+    border-radius: 6px;
+    border-color: #ffffff;
+    border-style: none;
+    font-weight: bold;
+}
+
+.spinner-element {
+    text-align: center;
+}
+
+.result-para {
+    color: #323f4b;
+    font-size: 23px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
